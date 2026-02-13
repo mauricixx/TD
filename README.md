@@ -1,4 +1,6 @@
 ## Taller Multimedial.
+![](https://mauricixx.github.io/multimedial/img/Multimedial_gif.gif)
+
 ### 1. Acercamiento a [TouchDesigner](https://derivative.ca).
 
 #### Qué es TouchDesigner? 

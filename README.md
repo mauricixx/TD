@@ -5,7 +5,7 @@
 #### Cultura web y arte digital.
 
 Ejercico 1, semana 1:
-```
+``` 
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
